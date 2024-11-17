@@ -1,0 +1,4 @@
+1.ติดตั้ง XAMPP และ phpmyAdmin ก่อน 
+2.เปิด MySQL และ Apache
+3.เอาไฟล์ไปไว้ใน htdoc
+4.เรียกใช้โดยการเข้า localhost/Prototype1/index.php
